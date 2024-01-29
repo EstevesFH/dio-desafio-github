@@ -1,6 +1,7 @@
-# Anotações dos cursos de Git/GitHub
+# Anotações da Formação QA Experience pela DIO
 
-- [Descrição do Desafio](https://github.com/EstevesFH/dio-desafio-github/blob/master/desafios/descricao.md)
-- [Anotações do Curso de Introdução ao GIT e ao GITHUB](https://github.com/EstevesFH/dio-desafio-github/blob/master/desafios/curso-Introdu%C3%A7%C3%A3oAoGit.md)
+**Descrição:** Criando 1° repositório para colocar as anotações dos cursos da Formação.
+
+- [Curso de Introdução ao GIT e ao GITHUB](https://github.com/EstevesFH/dio-desafio-github/blob/master/desafios/curso-Introdu%C3%A7%C3%A3oAoGit.md)
 
 
